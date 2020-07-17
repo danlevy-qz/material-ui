@@ -12,7 +12,7 @@
 - 🦎 可以和任何主题对象 (theme object) 结合使用。
 - 💅 使用广为流行的 CSS-in-JS 样式方案。
 - 📦 小于 [4KB 的压缩包](https://bundlephobia.com/result?p=@material-ui/system)。
-- 🚀 [足够快](https://github.com/mui-org/material-ui/blob/master/packages/material-ui-benchmark/README.md#material-uisystem)不会成为运行时的瓶颈。
+- 🚀 [足够快](https://github.com/quizlet/material-ui/blob/master/packages/material-ui-benchmark/README.md#material-uisystem)不会成为运行时的瓶颈。
 
 值得关注的是，整个库都提供了纯的样式函数(无副作用的)，它们拥有这样的类型签名： `({ theme, ...style })=> style`，**仅此而已**。
 

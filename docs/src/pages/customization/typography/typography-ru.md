@@ -135,7 +135,7 @@ theme = responsiveFontSizes(theme);
 
 ### Fluid font sizes
 
-To be done: [#15251](https://github.com/mui-org/material-ui/issues/15251).
+To be done: [#15251](https://github.com/quizlet/material-ui/issues/15251).
 
 ### HTML font size
 

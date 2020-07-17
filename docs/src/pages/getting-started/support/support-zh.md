@@ -14,9 +14,9 @@
 
 ### GitHub <img src="/static/images/logos/github.svg" width="24" height="24" alt="GitHub" loading="lazy" />
 
-我们用GitHub issues作为唯一的记录BUG或特性需求的跟踪方式。 我们用GitHub issues作为唯一的记录BUG或特性需求的跟踪方式。 如果你认为发现了BUG，或有一个新特性的想法，请在开始前先确保它没有被[报告过或解决过](https://github.com/mui-org/material-ui/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aclosed)。 您可以在现存的Issues或Pull Requests中搜索，以了解是否有人报告过类似的问题。 您可以在现存的Issues或Pull Requests中搜索，以了解是否有人报告过类似的问题。
+我们用GitHub issues作为唯一的记录BUG或特性需求的跟踪方式。 我们用GitHub issues作为唯一的记录BUG或特性需求的跟踪方式。 如果你认为发现了BUG，或有一个新特性的想法，请在开始前先确保它没有被[报告过或解决过](https://github.com/quizlet/material-ui/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aclosed)。 您可以在现存的Issues或Pull Requests中搜索，以了解是否有人报告过类似的问题。 您可以在现存的Issues或Pull Requests中搜索，以了解是否有人报告过类似的问题。
 
-[打开一个Issue](https://github.com/mui-org/material-ui/issues/new/choose)
+[打开一个Issue](https://github.com/quizlet/material-ui/issues/new/choose)
 
 #### 新Issue指南
 

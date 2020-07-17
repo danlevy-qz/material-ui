@@ -23,7 +23,7 @@ const theme = createMuiTheme({
 
 {{"demo": "pages/customization/globals/GlobalCss.js"}}
 
-每个组件可自定义的部分都在 **Component API** 章节列出。 例如，您可以参考以下 [Button](/api/button/#css) 组件。 或者，你可以随时查看[实现细节](https://github.com/mui-org/material-ui/blob/master/packages/material-ui/src/Button/Button.js)。
+每个组件可自定义的部分都在 **Component API** 章节列出。 例如，您可以参考以下 [Button](/api/button/#css) 组件。 或者，你可以随时查看[实现细节](https://github.com/quizlet/material-ui/blob/master/packages/material-ui/src/Button/Button.js)。
 
 ## 全局 CSS
 

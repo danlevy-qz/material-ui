@@ -363,13 +363,13 @@ You can [follow the server side guide](/guides/server-rendering/) for a more det
 
 There is [an official Gatsby plugin](https://github.com/hupe1980/gatsby-plugin-material-ui) that enables server-side rendering for `@material-ui/styles`. Refer to the plugin's page for setup and usage instructions.
 
-Refer to [this example Gatsby project](https://github.com/mui-org/material-ui/blob/master/examples/gatsby) for an up-to-date usage example.
+Refer to [this example Gatsby project](https://github.com/quizlet/material-ui/blob/master/examples/gatsby) for an up-to-date usage example.
 
 ### Next.js
 
-You need to have a custom `pages/_document.js`, then copy [this logic](https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js) to inject the server-side rendered styles into the `<head>` element.
+You need to have a custom `pages/_document.js`, then copy [this logic](https://github.com/quizlet/material-ui/blob/master/examples/nextjs/pages/_document.js) to inject the server-side rendered styles into the `<head>` element.
 
-Refer to [this example project](https://github.com/mui-org/material-ui/blob/master/examples/nextjs) for an up-to-date usage example.
+Refer to [this example project](https://github.com/quizlet/material-ui/blob/master/examples/nextjs) for an up-to-date usage example.
 
 ## Имена классов
 
@@ -491,7 +491,7 @@ You can also combine JSS generated class names with global ones.
 
 ## CSS prefixes
 
-JSS uses feature detection to apply the correct prefixes. [Don't be surprised](https://github.com/mui-org/material-ui/issues/9293) if you can't see a specific prefix in the latest version of Chrome. Your browser probably doesn't need it.
+JSS uses feature detection to apply the correct prefixes. [Don't be surprised](https://github.com/quizlet/material-ui/issues/9293) if you can't see a specific prefix in the latest version of Chrome. Your browser probably doesn't need it.
 
 ## Content Security Policy (CSP)
 

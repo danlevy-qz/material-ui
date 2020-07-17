@@ -104,7 +104,7 @@ function HomeSteps() {
             <Link
               variant="subtitle1"
               color="inherit"
-              href="https://github.com/mui-org/material-ui/tree/master/examples/cdn"
+              href="https://github.com/quizlet/material-ui/tree/master/examples/cdn"
               gutterBottom
             >
               {t('cdn')}

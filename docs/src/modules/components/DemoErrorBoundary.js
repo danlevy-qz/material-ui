@@ -27,7 +27,7 @@ export default class DemoErrorBoundary extends React.Component {
           <Typography>
             We would appreciate it if you report this error directly to our{' '}
             <Link
-              href="https://github.com/mui-org/material-ui/issues/new?template=1.bug.md"
+              href="https://github.com/quizlet/material-ui/issues/new?template=1.bug.md"
               target="_blank"
             >
               issue tracker

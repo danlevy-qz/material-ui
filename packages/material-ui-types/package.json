@@ -17,14 +17,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git",
+    "url": "https://github.com/quizlet/material-ui.git",
     "directory": "packages/material-ui-types"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/quizlet/material-ui/issues"
   },
-  "homepage": "https://github.com/mui-org/material-ui/tree/master/packages/material-ui-types",
+  "homepage": "https://github.com/quizlet/material-ui/tree/master/packages/material-ui-types",
   "scripts": {
     "release": "npm publish --tag latest",
     "test": "echo 'No runtime test. Type tests are run with the `typescript` script.'",

@@ -4,19 +4,19 @@
 
 ## Ejemplos oficiales
 
-Puedes encontrar algunos proyectos de ejemplo en el [repositorio de Github](https://github.com/mui-org/material-ui) dentro de la carpeta [`/examples`](https://github.com/mui-org/material-ui/tree/master/examples):
+Puedes encontrar algunos proyectos de ejemplo en el [repositorio de Github](https://github.com/quizlet/material-ui) dentro de la carpeta [`/examples`](https://github.com/quizlet/material-ui/tree/master/examples):
 
-- [Create React App](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app)
-- [Gatsby](https://github.com/mui-org/material-ui/tree/master/examples/gatsby)
-- [Next.js](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
-- [Preact](https://github.com/mui-org/material-ui/tree/master/examples/preact)
-- [CDN](https://github.com/mui-org/material-ui/tree/master/examples/cdn)
-- [Plain server-side](https://github.com/mui-org/material-ui/tree/master/examples/ssr)
+- [Create React App](https://github.com/quizlet/material-ui/tree/master/examples/create-react-app)
+- [Gatsby](https://github.com/quizlet/material-ui/tree/master/examples/gatsby)
+- [Next.js](https://github.com/quizlet/material-ui/tree/master/examples/nextjs)
+- [Preact](https://github.com/quizlet/material-ui/tree/master/examples/preact)
+- [CDN](https://github.com/quizlet/material-ui/tree/master/examples/cdn)
+- [Plain server-side](https://github.com/quizlet/material-ui/tree/master/examples/ssr)
 - E mais
 
 Create React App es un excelente proyecto para aprender React. Echa un vistazo a [las alternativas disponibles](https://github.com/facebook/create-react-app/blob/master/README.md#popular-alternatives) para ver qué proyecto se adapta mejor a tus necesidades.
 
-El código fuente de esta documentación también está incluido en el repositorio. Es un proyecto ligeramente más complejo. Echa un vistazo en la carpeta [`/docs`](https://github.com/mui-org/material-ui/tree/master/docs) para las instrucciones de compilación.
+El código fuente de esta documentación también está incluido en el repositorio. Es un proyecto ligeramente más complejo. Echa un vistazo en la carpeta [`/docs`](https://github.com/quizlet/material-ui/tree/master/docs) para las instrucciones de compilación.
 
 ## Proyectos de ejemplo más avanzados
 

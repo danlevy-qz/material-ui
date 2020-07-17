@@ -15,7 +15,7 @@ export default function MuiThemeProvider(props) {
         "Please replace the '@material-ui/core/styles/MuiThemeProvider' import with:",
         "`import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';`",
         '',
-        'See https://github.com/mui-org/material-ui/issues/17900 for more detail.',
+        'See https://github.com/quizlet/material-ui/issues/17900 for more detail.',
       ].join('\n'),
     );
   }

@@ -9,7 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Link from 'docs/src/modules/components/Link';
 import PageContext from 'docs/src/modules/components/PageContext';
 
-const GITHUB_RELEASE_BASE_URL = 'https://github.com/mui-org/material-ui/releases/tag/';
+const GITHUB_RELEASE_BASE_URL = 'https://github.com/quizlet/material-ui/releases/tag/';
 
 const styles = {
   root: {

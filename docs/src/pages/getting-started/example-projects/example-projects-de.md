@@ -4,19 +4,19 @@
 
 ## Official examples
 
-You can find some example projects in the [GitHub repository](https://github.com/mui-org/material-ui) under the [`/examples`](https://github.com/mui-org/material-ui/tree/master/examples) folder:
+You can find some example projects in the [GitHub repository](https://github.com/quizlet/material-ui) under the [`/examples`](https://github.com/quizlet/material-ui/tree/master/examples) folder:
 
-- [Create React App](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app)
-- [Gatsby](https://github.com/mui-org/material-ui/tree/master/examples/gatsby)
-- [Next.js](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
-- [Preact](https://github.com/mui-org/material-ui/tree/master/examples/preact)
-- [CDN](https://github.com/mui-org/material-ui/tree/master/examples/cdn)
-- [Plain server-side](https://github.com/mui-org/material-ui/tree/master/examples/ssr)
+- [Create React App](https://github.com/quizlet/material-ui/tree/master/examples/create-react-app)
+- [Gatsby](https://github.com/quizlet/material-ui/tree/master/examples/gatsby)
+- [Next.js](https://github.com/quizlet/material-ui/tree/master/examples/nextjs)
+- [Preact](https://github.com/quizlet/material-ui/tree/master/examples/preact)
+- [CDN](https://github.com/quizlet/material-ui/tree/master/examples/cdn)
+- [Plain server-side](https://github.com/quizlet/material-ui/tree/master/examples/ssr)
 - E mais
 
 Create React App ist ein großartiges Projekt zum Lernen von React. Schauen Sie sich die [verfügbaren Alternativen an](https://github.com/facebook/create-react-app/blob/master/README.md#popular-alternatives) um zu sehen, welches Projekt am besten zu Ihnen passt.
 
-Der Quellcode für diese Dokumentationsseite ist auch im Repository enthalten. Dies ist ein etwas komplexeres Projekt. Schauen Sie sich die Build-Anweisungen im [`/docs`](https://github.com/mui-org/material-ui/tree/master/docs) Ordner an.
+Der Quellcode für diese Dokumentationsseite ist auch im Repository enthalten. Dies ist ein etwas komplexeres Projekt. Schauen Sie sich die Build-Anweisungen im [`/docs`](https://github.com/quizlet/material-ui/tree/master/docs) Ordner an.
 
 ## Fortgeschrittenere Beispielprojekte
 

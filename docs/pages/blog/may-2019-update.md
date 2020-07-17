@@ -35,4 +35,4 @@ If you are an enterprise and are looking for one of the following:
 
 You can contact us at advisory@material-ui.com.
 
-- ❓ Please upvote our [GitHub issues](https://github.com/mui-org/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.
+- ❓ Please upvote our [GitHub issues](https://github.com/quizlet/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.

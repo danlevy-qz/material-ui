@@ -145,7 +145,7 @@ IconButton.propTypes = {
             'to a child of a button element.',
           'Firefox will never trigger the event.',
           'You should move the onClick listener to the parent button element.',
-          'https://github.com/mui-org/material-ui/issues/13957',
+          'https://github.com/quizlet/material-ui/issues/13957',
         ].join('\n'),
       );
     }

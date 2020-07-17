@@ -65,7 +65,7 @@ export default function useMediaQuery(queryInput, options = {}) {
     const updateMatch = () => {
       // Workaround Safari wrong implementation of matchMedia
       // TODO can we remove it?
-      // https://github.com/mui-org/material-ui/pull/17315#issuecomment-528286677
+      // https://github.com/quizlet/material-ui/pull/17315#issuecomment-528286677
       if (active) {
         setMatch(queryList.matches);
       }

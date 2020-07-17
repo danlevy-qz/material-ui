@@ -12,7 +12,7 @@ title: 超过 9 个免费的 React 模板
 
 {{"demo": "pages/getting-started/templates/Templates.js", "hideToolbar": true, "bg": true}}
 
-使用这些示例时，若你有改善开发人员的体验的更改或增强意见，或者你也想贡献一下其他的示例，你可以在 GitHub 上创建一个 [pull request](https://github.com/mui-org/material-ui/pulls)。
+使用这些示例时，若你有改善开发人员的体验的更改或增强意见，或者你也想贡献一下其他的示例，你可以在 GitHub 上创建一个 [pull request](https://github.com/quizlet/material-ui/pulls)。
 
 目前为止，我们提供了关于主控面板（dashboard），登录页面（sign in page），注册页面（sign up page），博客（blog page），付款流程（checkout flow），专辑页面（album page），价格页面（pricing page）以及固定页脚（sticky footer page）的演示。
 

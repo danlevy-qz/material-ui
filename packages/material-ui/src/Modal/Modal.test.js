@@ -208,7 +208,7 @@ describe('<Modal />', () => {
       expect(onBackdropClick).to.have.property('callCount', 0);
     });
 
-    // Test case for https://github.com/mui-org/material-ui/issues/12831
+    // Test case for https://github.com/quizlet/material-ui/issues/12831
     it('should unmount the children when starting open and closing immediately', () => {
       function TestCase() {
         const [open, setOpen] = React.useState(true);
@@ -341,7 +341,7 @@ describe('<Modal />', () => {
       expect(modalNode).not.toBeAriaHidden();
     });
 
-    // Test case for https://github.com/mui-org/material-ui/issues/15180
+    // Test case for https://github.com/quizlet/material-ui/issues/15180
     // TODO: how does this relate to `keepMounted`
     // TODO: never finishes
     it('should remove the transition children in the DOM when closed whilst transition status is entering', () => {

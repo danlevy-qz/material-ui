@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git",
+    "url": "https://github.com/quizlet/material-ui.git",
     "directory": "packages/material-ui"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/quizlet/material-ui/issues"
   },
   "homepage": "https://material-ui.com/",
   "funding": {

@@ -10,7 +10,7 @@ describe('deepmerge', () => {
     expect({}.isAdmin).to.equal(undefined);
   });
 
-  // https://github.com/mui-org/material-ui/issues/20095
+  // https://github.com/quizlet/material-ui/issues/20095
   it('should not merge HTML elements', () => {
     const element = document.createElement('div');
     const element2 = document.createElement('div');

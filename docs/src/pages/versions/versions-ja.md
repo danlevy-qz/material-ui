@@ -46,7 +46,7 @@ Material-UI は [Semantic Versioning 2.0.0](https://semver.org/) に従いバー
 | 2020年 第3四半期 | v5.0.0  | ⏳        |
 
 
-詳細な概要については [マイルストーン](https://github.com/mui-org/material-ui/milestones) をご覧ください。
+詳細な概要については [マイルストーン](https://github.com/quizlet/material-ui/milestones) をご覧ください。
 
 > ⚠️ **免責事項**: 我々は流動的な環境で事業を行っており、状況は変化する可能性があります。 提供される情報は、フレームワークの一般的な方向性を概説することを目的としています。 情報提供のみを目的とします。 We may decide to add/remove new items at any time depending on our capability to deliver while meeting our quality standards. The development, releases and timing of any features or functionality of Material-UI remains at the sole discretion of Material-UI. The roadmap does not represent a commitment, obligation or promise to deliver at any time.
 

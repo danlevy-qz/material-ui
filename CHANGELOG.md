@@ -68,7 +68,7 @@ Big thanks to the 8 contributors who made this release possible.
 We are moving all ongoing efforts to v5 (`next` branch) ✨.
 This means a feature freeze on v4. The development of this version will be limited to important bug fixes, security patches, and easing the upgrade path to v5.
 
-You can follow our progress on the [v5 milestone](https://github.com/mui-org/material-ui/milestone/35). We will make the documentation of the v5 alpha releases available under https://next.material-ui.com/, starting next week (weekly releases, as usual).
+You can follow our progress on the [v5 milestone](https://github.com/quizlet/material-ui/milestone/35). We will make the documentation of the v5 alpha releases available under https://next.material-ui.com/, starting next week (weekly releases, as usual).
 
 Big thanks to the 19 contributors who made this release possible. Here are some highlights ✨:
 
@@ -578,13 +578,13 @@ Here are some highlights ✨:
 
 Over the last 3 months, we have focused exclusively on making patch releases.
 We have done 11 so far. We have optimized for stability.
-In the coming weeks, we will initiate our work on the [next major: v5](https://github.com/mui-org/material-ui/issues/20012).
+In the coming weeks, we will initiate our work on the [next major: v5](https://github.com/quizlet/material-ui/issues/20012).
 You can expect the following:
 
 - A feature freeze on v4.
 - The introduction of deprecation messages in the next v4 minors. These messages will help developers upgrade to v5.
 - A progressive bug fixes freeze on v4, to the exception of security issues and important bugs.
-- At least 6 months of work on v5 to get to a stable release (probably more). You can follow our [milestone](https://github.com/mui-org/material-ui/milestone/35). We will look for hiring a new full-time member on the core team to move faster.
+- At least 6 months of work on v5 to get to a stable release (probably more). You can follow our [milestone](https://github.com/quizlet/material-ui/milestone/35). We will look for hiring a new full-time member on the core team to move faster.
 
 ### `@material-ui/core@v4.9.10`
 
@@ -3915,7 +3915,7 @@ Here are some highlights ✨:
 
 Big thanks to the 11 contributors who made this release possible!
 
-This release fixes an important regression with TypeScript: https://github.com/mui-org/material-ui/issues/15076.
+This release fixes an important regression with TypeScript: https://github.com/quizlet/material-ui/issues/15076.
 
 ### `@material-ui/core@v3.9.3`
 
@@ -4436,7 +4436,7 @@ This is our first unstable release toward Material-UI v4.0.0. We try to release 
 This gives us the opportunity to remove deprecated APIs, upgrade our peer dependencies and more importantly, keep up with the direction the community is taking.
 
 - You can find the documentation following this URL: https://material-ui.com/.
-- You can track our progress following this URL: https://github.com/mui-org/material-ui/milestone/25.
+- You can track our progress following this URL: https://github.com/quizlet/material-ui/milestone/25.
 
 A big thanks to the 28 contributors who made this release possible!
 
@@ -6078,7 +6078,7 @@ It's also a good opportunity to upgrade to the stable release of Babel 7.
 Big thanks to the 27 contributors who made this release possible!
 
 We are upgrading the major version of `@material-ui/core` to match the version of `@material-ui/icons`.
-The next major release is planned for [Q1, 2019](https://github.com/mui-org/material-ui/milestone/25).
+The next major release is planned for [Q1, 2019](https://github.com/quizlet/material-ui/milestone/25).
 
 ### Breaking change
 
@@ -7055,7 +7055,7 @@ import {
 
 #### Upgrade path
 
-We provide a codemod to automate the migration: https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod#import-path. I have used it to upgrade all the demos in the documentation :).
+We provide a codemod to automate the migration: https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod#import-path. I have used it to upgrade all the demos in the documentation :).
 
 - [core] Require React 16.3.0 or greater (#11347, #11361) @oliviertassinari
 - [Grid] Remove the hidden property (#11348) @oliviertassinari
@@ -7617,7 +7617,7 @@ For consistency with the [removeEventListener Web API](https://developer.mozilla
 
 - [InputLabel] Rename FormControlClasses property (#10796) @oliviertassinari
 
-I have made a mistake in [#8108](https://github.com/mui-org/material-ui/pull/8108). The property isn't applied on a `FormControl` but on a `FormLabel` component.
+I have made a mistake in [#8108](https://github.com/quizlet/material-ui/pull/8108). The property isn't applied on a `FormControl` but on a `FormLabel` component.
 
 ```diff
 -<InputLabel FormControlClasses={classes} />
@@ -9350,7 +9350,7 @@ Big thanks to the 14 contributors who made this release possible.
 Here are some highlights ✨:
 
 - New InputAdornment component (#8504).
-- New [Frequently asked questions](https://github.com/mui-org/material-ui/blob/4df547d56448cedf70977d6e2463b38eaf64d1c7/docs/src/pages/getting-started/frequently-asked-questions.md) documentation section
+- New [Frequently asked questions](https://github.com/quizlet/material-ui/blob/4df547d56448cedf70977d6e2463b38eaf64d1c7/docs/src/pages/getting-started/frequently-asked-questions.md) documentation section
 - We have saved 1 KB gzip by removing our internal react-transition-group fork (#8785).
 - We have made one step further in order to upgrade all our development dependencies to react@16 (#8804).
 
@@ -11154,7 +11154,7 @@ We are releasing sooner than we use to for this **special day** :christmas_tree:
 That wouldn't have been possible without this awesome community.
 **Thank you!**
 
-But this's just the beginning, some [exciting stuff](https://github.com/mui-org/material-ui/blob/master/ROADMAP.md) is coming in 2017 :sparkles:.
+But this's just the beginning, some [exciting stuff](https://github.com/quizlet/material-ui/blob/master/ROADMAP.md) is coming in 2017 :sparkles:.
 You can preview a **very early** version of the `next` branch following [this link](https://material-ui-next.com).
 
 #### Component Fixes / Enhancements
@@ -11233,7 +11233,7 @@ This is another release improving the stability of `v0.16.x`.
 ## 0.16.3
 ###### *Nov 17, 2016*
 
-This release is intended to solve an [issue](https://github.com/mui-org/material-ui/issues/5573) with `react-tap-event-plugin` following the release of React `v15.4.0`.
+This release is intended to solve an [issue](https://github.com/quizlet/material-ui/issues/5573) with `react-tap-event-plugin` following the release of React `v15.4.0`.
 
 #### Component Fixes / Enhancements
 
@@ -11342,7 +11342,7 @@ We are switching in goal so we can release changes more **often**.
 Regarding going forward, this is likely to be the last `minor` release using the **inline-style** approach.
 We are migrating all the components to a **CSS-in-JS** approach on the `next` branch.
 
-For more details, you can have a look a the [next milestone](https://github.com/mui-org/material-ui/milestone/14) as well as the [next project](https://github.com/mui-org/material-ui/projects/1)
+For more details, you can have a look a the [next milestone](https://github.com/quizlet/material-ui/milestone/14) as well as the [next project](https://github.com/quizlet/material-ui/projects/1)
 
 :warning: New features based on the `master` branch (inline-style) have low priority and will most likely not be reviewed nor merged.
 
@@ -11732,7 +11732,7 @@ documentation page.
 
 Have a ton of imports? almost had a heart attack? worry not, we also made a tool
 to ease your pain. checkout the
-[readme](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod/README.md).
+[readme](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod/README.md).
 
 ##### Breaking Changes
 
@@ -11924,7 +11924,7 @@ import MUI from 'material-ui'; // no changes here :D
 This release includes huge improvements to the implementation
 of components and utility modules. The most important improvement
 is the removal of mixins from the library, thanks to the
-[great efforts](https://github.com/mui-org/material-ui/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3Anewoga+style-propable)
+[great efforts](https://github.com/quizlet/material-ui/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3Anewoga+style-propable)
 of @newoga :+1:
 
 There are also improvements to the unit testing infrastructure. We own this
@@ -12825,7 +12825,7 @@ We've cleaned up some of our click/tap events. (#771) Upgrade should be straight
     component specific. In addition to the benefits mentioned in the
     presentation, inline styles allow Material-UI to become CSS preprocessor
     agnostic and make Themeing much more dynamic and simple.
-    [Read our CSS in JS discussion](https://github.com/mui-org/material-ui/issues/30)
+    [Read our CSS in JS discussion](https://github.com/quizlet/material-ui/issues/30)
   - Upgrade path:
     - *If you are overriding component CSS classes:* Redefine your overrides as
       an object following [React's inline styles format](https://facebook.github.io/react/tips/inline-styles.html),
@@ -12834,10 +12834,10 @@ We've cleaned up some of our click/tap events. (#771) Upgrade should be straight
       overriding a nested element of the component, check the component's
       documentation and see if there is a style prop available for that nested
       element. If a style prop does not exist for the component's nested element
-      that you are trying to override, [submit an issue](https://github.com/mui-org/material-ui/issues/new)
+      that you are trying to override, [submit an issue](https://github.com/quizlet/material-ui/issues/new)
       requesting to have it added.
     - *If you are using any of Material-UI's Less files:* These files have been
-      refactored into their [own javascript files](https://github.com/mui-org/material-ui/tree/css-in-js/src/styles)
+      refactored into their [own javascript files](https://github.com/quizlet/material-ui/tree/css-in-js/src/styles)
       and can be accessed like so `var FILENAME = require('material-ui').Styles.FILENAME;`.
       Material-UI has moved away from being a CSS Framework to being simply a
       set of React components.
@@ -12995,7 +12995,7 @@ We've cleaned up some of our click/tap events. (#771) Upgrade should be straight
       For FontIcon, create a custom font file and include it in your project and just pass the Icon
       className into the FontIcon component. For SvgIcon, create a new React component that represents
       that particular icon. This will allow you to package your icons inside your js files. Examples
-      can be found [here](https://github.com/mui-org/material-ui/tree/master/src/js/svg-icons).
+      can be found [here](https://github.com/quizlet/material-ui/tree/master/src/js/svg-icons).
     - Additionally, all components that had an icon prop now take an iconClassName prop instead. These
       include FloatingActionButton, IconButton, Menu, MenuItem, and DropDownIcon.
 

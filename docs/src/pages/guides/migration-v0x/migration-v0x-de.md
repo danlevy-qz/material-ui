@@ -10,7 +10,7 @@ Gute Frage! Die Antwort ist nein. Die Kernkonzepte haben sich nicht geändert. Y
 
 ### Was hat zu einer so großen Veränderung geführt?
 
-Die Material-UI wurde vor [4 Jahren gestartet](https://github.com/mui-org/material-ui/commit/28b768913b75752ecf9b6bb32766e27c241dbc46). Das Ökosystem hat sich seitdem stark verändert, wir haben auch viel gelernt. [@nathanmarks](https://github.com/nathanmarks/) begann eine ehrgeizige Aufgabe, Material-UI **von Grund auf ** neu zu erstellen unter Ausnutzung seines Wissen seit langem bestehende Probleme zu lösen. Um einige der wichtigsten Änderungen zu nennen:
+Die Material-UI wurde vor [4 Jahren gestartet](https://github.com/quizlet/material-ui/commit/28b768913b75752ecf9b6bb32766e27c241dbc46). Das Ökosystem hat sich seitdem stark verändert, wir haben auch viel gelernt. [@nathanmarks](https://github.com/nathanmarks/) begann eine ehrgeizige Aufgabe, Material-UI **von Grund auf ** neu zu erstellen unter Ausnutzung seines Wissen seit langem bestehende Probleme zu lösen. Um einige der wichtigsten Änderungen zu nennen:
 
 - Neue Styling-Lösung mit CSS-in-JS (bessere[ Anpassungsmöglichkeiten](/customization/components/), bessere Leistung)
 - Neues Theming (Schachteln, selbsttragend usw.)
@@ -43,7 +43,7 @@ Die Material-UI wurde vor [4 Jahren gestartet](https://github.com/mui-org/materi
   import Button from '@material-ui/core/Button'; // v1.x
   ```
 
-2. Run [the migration helper](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod) on your project.
+2. Run [the migration helper](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod) on your project.
 3. `MuiThemeProvider` is optional for v1.x., but if you have a custom theme, you are free to use v0.x and v1.x versions of the component at the same time, like this:
 
   ```jsx
@@ -81,11 +81,11 @@ Die Material-UI wurde vor [4 Jahren gestartet](https://github.com/mui-org/materi
 Material-UI doesn't provide a high-level API for solving this problem.
 You're encouraged you to explore [the solutions the React community has built](/components/autocomplete/).
 
-In the future, we will look into providing a simple component to solve the simple use cases: [#9997](https://github.com/mui-org/material-ui/issues/9997).
+In the future, we will look into providing a simple component to solve the simple use cases: [#9997](https://github.com/quizlet/material-ui/issues/9997).
 
 ### Svg Icon
 
-Run [the migration helper](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod) on your project.
+Run [the migration helper](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod) on your project.
 
 This will apply a change such as the following:
 
@@ -187,4 +187,4 @@ Erhöhter Button-Aktualisierungspfad:
 
 ### Fortsetzung folgt…
 
-Haben Sie Ihre App erfolgreich migriert und möchten der Community helfen? There is an open issue in order to finish this migration guide [#7195](https://github.com/mui-org/material-ui/issues/7195). Jede Pull-Anfrage wird begrüßt 😊.
+Haben Sie Ihre App erfolgreich migriert und möchten der Community helfen? There is an open issue in order to finish this migration guide [#7195](https://github.com/quizlet/material-ui/issues/7195). Jede Pull-Anfrage wird begrüßt 😊.

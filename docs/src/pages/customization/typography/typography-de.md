@@ -135,7 +135,7 @@ theme = responsiveFontSizes(theme);
 
 ### Fließende Schriftgrößen
 
-Noch zu tun: [#15251](https://github.com/mui-org/material-ui/issues/15251).
+Noch zu tun: [#15251](https://github.com/quizlet/material-ui/issues/15251).
 
 ### HTML-Schriftgröße
 

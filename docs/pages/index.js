@@ -1,37 +1,13 @@
 import React from 'react';
-import * as PropTypes from 'prop-types';
 import { useSelector } from 'react-redux';
 import { makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import Container from '@material-ui/core/Container';
-import Steps from 'docs/src/pages/landing/Steps';
-import Themes from 'docs/src/pages/landing/Themes';
-import QuickWord from 'docs/src/pages/landing/QuickWord';
-import Sponsors, {
-  getInitialProps as getInitialSponsorsProps,
-} from 'docs/src/pages/landing/Sponsors';
-import Users from 'docs/src/pages/landing/Users';
-import Quotes from 'docs/src/pages/landing/Quotes';
-import Pro from 'docs/src/pages/landing/Pro';
 import AppFooter from 'docs/src/modules/components/AppFooter';
 import AppFrame from 'docs/src/modules/components/AppFrame';
 import Link from 'docs/src/modules/components/Link';
 import Head from 'docs/src/modules/components/Head';
-import loadScript from 'docs/src/modules/utils/loadScript';
-
-let dependenciesLoaded = false;
-
-function loadDependencies() {
-  if (dependenciesLoaded) {
-    return;
-  }
-
-  dependenciesLoaded = true;
-
-  loadScript('https://buttons.github.io/buttons.js', document.querySelector('head'));
-  loadScript('https://platform.twitter.com/widgets.js', document.querySelector('head'));
-}
 
 const useStyles = makeStyles(
   (theme) => ({
@@ -113,12 +89,8 @@ const GettingStartedLink = React.forwardRef((props, ref) => {
   return <Link href="/getting-started/installation" naked ref={ref} {...props} />;
 });
 
+// eslint-disable-next-line no-unused-vars
 export default function LandingPage(props) {
-  const { sponsorsProps } = props;
-
-  React.useEffect(() => {
-    loadDependencies();
-  }, []);
   const t = useSelector((state) => state.options.t);
   const classes = useStyles();
 
@@ -154,67 +126,9 @@ export default function LandingPage(props) {
               </div>
             </Container>
           </div>
-          <div className={classes.social}>
-            <div className={classes.github}>
-              <a
-                className="github-button"
-                href="https://github.com/mui-org/material-ui"
-                data-icon="octicon-star"
-                data-show-count="true"
-              >
-                Star
-              </a>
-            </div>
-            <div className={classes.twitter}>
-              <a
-                className="twitter-follow-button"
-                href="https://twitter.com/@materialui"
-                data-show-screen-name="false"
-              >
-                Follow
-              </a>
-            </div>
-          </div>
-          <Pro />
-          <QuickWord />
-          <Steps />
-          <Themes />
-          <Sponsors {...sponsorsProps} />
-          <Quotes />
-          <Users />
         </main>
         <AppFooter />
       </div>
-      <script
-        type="application/ld+json"
-        // eslint-disable-next-line react/no-danger
-        dangerouslySetInnerHTML={{
-          __html: `
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Material-UI",
-  "url": "https://material-ui.com/",
-  "logo": "https://material-ui.com/static/logo.png",
-  "sameAs": [
-    "https://twitter.com/materialUI",
-    "https://github.com/mui-org/material-ui",
-    "https://opencollective.com/material-ui"
-  ]
-}
-          `,
-        }}
-      />
     </AppFrame>
   );
 }
-
-LandingPage.propTypes = {
-  sponsorsProps: PropTypes.object.isRequired,
-};
-
-LandingPage.getInitialProps = async () => {
-  return {
-    sponsorsProps: await getInitialSponsorsProps(),
-  };
-};

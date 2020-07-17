@@ -17,9 +17,9 @@ Working on your first Pull Request? You can learn how from this free video serie
 
 [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/mui-org/material-ui/issues?q=is:open+is:issue+label:"good+first+issue") that contain changes that have a relatively limited scope. This label means that there is already a working solution to the issue in the discussion section. Therefore, it is a great place to get started.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/quizlet/material-ui/issues?q=is:open+is:issue+label:"good+first+issue") that contain changes that have a relatively limited scope. This label means that there is already a working solution to the issue in the discussion section. Therefore, it is a great place to get started.
 
-We also have a list of [good to take issues](https://github.com/mui-org/material-ui/issues?q=is:open+is:issue+label:"good+to+take"). This label is set when there has been already some discussion about the solution and it is clear in which direction to go. These issues are good for developers that want to reduce the chance of going down a rabbit hole.
+We also have a list of [good to take issues](https://github.com/quizlet/material-ui/issues?q=is:open+is:issue+label:"good+to+take"). This label is set when there has been already some discussion about the solution and it is clear in which direction to go. These issues are good for developers that want to reduce the chance of going down a rabbit hole.
 
 If you decide to fix an issue, please be sure to check the comment thread in case somebody is already working on a fix. If nobody is working on it at the moment, please leave a comment stating that you have started to work on it so other people don’t accidentally duplicate your effort.
 
@@ -39,7 +39,7 @@ When in doubt, keep your Pull Requests small. To give a Pull Request the best ch
 ```sh
 git clone https://github.com/<your username>/material-ui.git
 cd material-ui
-git remote add upstream https://github.com/mui-org/material-ui.git
+git remote add upstream https://github.com/quizlet/material-ui.git
 ```
 
 3. Synchronize your local `master` branch with the upstream one:
@@ -67,7 +67,7 @@ git checkout -b my-topic-branch
 git push -u origin HEAD
 ```
 
-7. Go to [the repository](https://github.com/mui-org/material-ui) and make a Pull Request.
+7. Go to [the repository](https://github.com/quizlet/material-ui) and make a Pull Request.
 
 The core team is monitoring for Pull Requests. We will review your Pull Request and either merge it, request changes to it, or close it with an explanation.
 
@@ -83,9 +83,9 @@ Make sure the following is true:
 - If a feature is being added:
   - If the result was already achievable with the core library, explain why this feature needs to be added to the core.
   - If this is a common use case, consider adding an example to the documentation.
-- When adding new features or modifying existing, please include tests to confirm the new behavior. You can read more about our test setup in our test [README](https://github.com/mui-org/material-ui/blob/master/test/README.md).
+- When adding new features or modifying existing, please include tests to confirm the new behavior. You can read more about our test setup in our test [README](https://github.com/quizlet/material-ui/blob/master/test/README.md).
 - If props were added or prop types were changed, the TypeScript declarations were updated.
-- When submitting a new component, please add it to the [lab](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-lab).
+- When submitting a new component, please add it to the [lab](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-lab).
 - The branch is not behind its target.
 
 Because we will only merge a Pull Request for which all tests pass. The following items need is true. We will provide assistance if not:
@@ -258,7 +258,7 @@ If you are no familiar with that language, write the demo in JavaScript, a core 
 
 #### 4. You are done 🎉!
 
-In case you missed something, [we have a real example that can be used as a summary report](https://github.com/mui-org/material-ui/pull/19582/files).
+In case you missed something, [we have a real example that can be used as a summary report](https://github.com/quizlet/material-ui/pull/19582/files).
 
 ## Translations
 

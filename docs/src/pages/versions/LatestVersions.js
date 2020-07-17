@@ -39,7 +39,7 @@ function LatestVersions(props) {
               <Link
                 variant="body2"
                 color="secondary"
-                href="https://github.com/mui-org/material-ui/tree/master"
+                href="https://github.com/quizlet/material-ui/tree/master"
               >
                 Source code
               </Link>
@@ -63,7 +63,7 @@ function LatestVersions(props) {
               <Link
                 variant="body2"
                 color="secondary"
-                href="https://github.com/mui-org/material-ui/tree/next"
+                href="https://github.com/quizlet/material-ui/tree/next"
               >
                 Source code
               </Link>

@@ -4,7 +4,7 @@
 
 While we strive to follow the guidelines where practical (applying common sense where guidelines contradict - a more common occurrence than one might expect), we do not expect to support every component, nor every feature of every component, but rather to provide the building blocks to allow developers to create compelling user interfaces and experiences.
 
-ここで強調表示されていないコンポーネントまたは機能のサポートを追加したい場合は、関連する[GitHub Issue](https://github.com/mui-org/material-ui/issues)を探す、または、プルリクエストを送信する前にアプローチを議論するための新しいIssueを作成してください。
+ここで強調表示されていないコンポーネントまたは機能のサポートを追加したい場合は、関連する[GitHub Issue](https://github.com/quizlet/material-ui/issues)を探す、または、プルリクエストを送信する前にアプローチを議論するための新しいIssueを作成してください。
 
 - **[Painéis de Expansão](https://material.io/archive/guidelines/components/expansion-panels.html) ✓** (*Legado Material v1*)
 - App bars 

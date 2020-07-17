@@ -13,10 +13,10 @@ Existem muitas maneiras de apoiar o Material-UI:
 - **Ajude novos usuários**. Você pode responder a perguntas no [StackOverflow](https://stackoverflow.com/questions/tagged/material-ui).
 - **Faça as alterações acontecerem**. 
   - Edite a documentação. Cada página da versão em inglês tem um link "EDIT THIS PAGE" no canto superior direito.
-  - Reporte erros ou recursos faltantes [criando uma issue](https://github.com/mui-org/material-ui/issues/new).
-  - Revise e comente em [pull requests](https://github.com/mui-org/material-ui/pulls) e [issues](https://github.com/mui-org/material-ui/issues) existentes.
+  - Reporte erros ou recursos faltantes [criando uma issue](https://github.com/quizlet/material-ui/issues/new).
+  - Revise e comente em [pull requests](https://github.com/quizlet/material-ui/pulls) e [issues](https://github.com/quizlet/material-ui/issues) existentes.
   - Ajude a [traduzir](https://translate.material-ui.com) a documentação.
-  - [Aprimore nossa documentação](https://github.com/mui-org/material-ui/tree/master/docs), corrija bugs, ou adicione recursos [enviando um pull request](https://github.com/mui-org/material-ui/pulls).
+  - [Aprimore nossa documentação](https://github.com/quizlet/material-ui/tree/master/docs), corrija bugs, ou adicione recursos [enviando um pull request](https://github.com/quizlet/material-ui/pulls).
 - **Apoie-nos financeiramente no [OpenCollective](https://opencollective.com/material-ui)**. Se você usa Material-UI em um projeto comercial e gostaria de apoiar seu desenvolvimento contínuo tornando-se um Patrocinador, ou em um projeto freelancer ou hobby e gostaria de se tornar um Apoiador, você pode se tornar através do OpenCollective. Todos os fundos doados são geridos de forma transparente e os Patrocinadores recebem reconhecimento no README e na página inicial do Material-UI.
 
 ## Por que meus componentes não estão renderizando corretamente em compilações de produção?

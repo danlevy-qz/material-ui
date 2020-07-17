@@ -4,7 +4,7 @@
 
 Всё же ищете документацию на v3? [Вы можете найти её здесь](https://material-ui.com/versions/).
 
-> Этот документ пока находится в стадии разработки. Вы обновили свой сайт и столкнулись с чем-то, что здесь не рассматривается? [Добавьте ваши изменения на GitHub](https://github.com/mui-org/material-ui/blob/master/docs/src/pages/guides/migration-v3/migration-v3.md).
+> Этот документ пока находится в стадии разработки. Вы обновили свой сайт и столкнулись с чем-то, что здесь не рассматривается? [Добавьте ваши изменения на GitHub](https://github.com/quizlet/material-ui/blob/master/docs/src/pages/guides/migration-v3/migration-v3.md).
 
 ## Вступление
 
@@ -140,7 +140,7 @@ yarn add @material-ui/styles
 
   *Tip: you can provide more than 1 argument: `theme.spacing(1, 2) // = '8px 16px'`*.
 
-  You can use [the migration helper](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod/README.md#theme-spacing-api) on your project to make this smoother.
+  You can use [the migration helper](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod/README.md#theme-spacing-api) on your project to make this smoother.
 
 ### Layout
 
@@ -408,7 +408,7 @@ This change is explained in more detail in the [TypeScript guide](/guides/typesc
 
 - [Typography] Change the default variant from `body2` to `body1`. A font size of 16px is a better default than 14px. 14px like Ant Design uses is understandable, as Chinese users have a different alphabet. Bootstrap, material.io, and even the documentation use 16px as a default font size. 12px is recommended as the default font size for Japanese.
 - [Typography] Remove the default color from the typography variants. The color should inherit most of the time. It's the default behavior of the web.
-- [Typography] Rename `color="default"` to `color="initial"` following the logic of [this thread](https://github.com/mui-org/material-ui/issues/13028). The usage of *default* should be avoided, it lacks semantic.
+- [Typography] Rename `color="default"` to `color="initial"` following the logic of [this thread](https://github.com/quizlet/material-ui/issues/13028). The usage of *default* should be avoided, it lacks semantic.
 
 ### Node
 

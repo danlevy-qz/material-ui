@@ -387,13 +387,13 @@ function render() {
 
 这个 [官方的 Gatsby 插件](https://github.com/hupe1980/gatsby-plugin-material-ui)，可以利用它来实现 `@material-ui/style` 的服务器端渲染。 请参考插件页面的设置和使用说明。
 
-请参考 [Gatsby 项目案例](https://github.com/mui-org/material-ui/blob/master/examples/gatsby)以了解最新的使用方法。
+请参考 [Gatsby 项目案例](https://github.com/quizlet/material-ui/blob/master/examples/gatsby)以了解最新的使用方法。
 
 ### Next.js
 
-您需要有一个自定义的 `pages/_document.js`，然后复制[此逻辑](https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js)以注入服务器侧渲染的样式到 `<head>` 元素中。
+您需要有一个自定义的 `pages/_document.js`，然后复制[此逻辑](https://github.com/quizlet/material-ui/blob/master/examples/nextjs/pages/_document.js)以注入服务器侧渲染的样式到 `<head>` 元素中。
 
-请参考[示例项目](https://github.com/mui-org/material-ui/blob/master/examples/nextjs)以获取最新的使用方法。
+请参考[示例项目](https://github.com/quizlet/material-ui/blob/master/examples/nextjs)以获取最新的使用方法。
 
 ## 类名（Class names）
 
@@ -515,7 +515,7 @@ const StyledTextField = styled(TextField)`
 
 ## CSS 前缀（prefixes）
 
-JSS 使用特征探测来应用正确的前缀。 如果您看不到最新版本 Chrome 中显示一个特定前缀，[请不要感到惊讶](https://github.com/mui-org/material-ui/issues/9293)。 您的浏览器可能不需要它。
+JSS 使用特征探测来应用正确的前缀。 如果您看不到最新版本 Chrome 中显示一个特定前缀，[请不要感到惊讶](https://github.com/quizlet/material-ui/issues/9293)。 您的浏览器可能不需要它。
 
 ## 内容安全策略（CSP）
 

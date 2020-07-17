@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Builds Material-UI for Framer X",
   "main": "index.js",
-  "repository": "https://github.com/mui-org/material-ui",
+  "repository": "https://github.com/quizlet/material-ui",
   "author": "Material-UI Team",
   "license": "MIT",
   "private": true,

@@ -135,7 +135,7 @@ theme = responsiveFontSizes(theme);
 
 ### 滑らかなフォントサイズ
 
-完了予定：[＃15251 ](https://github.com/mui-org/material-ui/issues/15251) 。
+完了予定：[＃15251 ](https://github.com/quizlet/material-ui/issues/15251) 。
 
 ### HTMLフォントサイズ
 

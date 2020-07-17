@@ -13,10 +13,10 @@
 - **帮助新的用户** 。 您可以在 [StackOverflow](https://stackoverflow.com/questions/tagged/material-ui) 中回答一些问题。
 - **做出一些改变吧**。 
   - 编辑文档。 每个页面右上角都有一个“编辑此页面”的链接。
-  - 通过 [创建一个问题](https://github.com/mui-org/material-ui/issues/new) 来报告错误或缺少的功能 。
-  - 查看和评论一些现有的 [pull requests](https://github.com/mui-org/material-ui/pulls) 和 [issues](https://github.com/mui-org/material-ui/issues)。
+  - 通过 [创建一个问题](https://github.com/quizlet/material-ui/issues/new) 来报告错误或缺少的功能 。
+  - 查看和评论一些现有的 [pull requests](https://github.com/quizlet/material-ui/pulls) 和 [issues](https://github.com/quizlet/material-ui/issues)。
   - 帮助我们 [翻译](https://translate.material-ui.com) 文档。
-  - 通过 [提交的一个 pull request](https://github.com/mui-org/material-ui/pulls) 来 [优化我们的文档](https://github.com/mui-org/material-ui/tree/master/docs)，修复错误，或者添加功能。
+  - 通过 [提交的一个 pull request](https://github.com/quizlet/material-ui/pulls) 来 [优化我们的文档](https://github.com/quizlet/material-ui/tree/master/docs)，修复错误，或者添加功能。
 - **在 [OpenCollective](https://opencollective.com/material-ui)** 上资助我们。 如果您在商业项目中使用了 Material-UI，并希望通过成为我们的赞助商来支持我们的持续发展，或者在一个业余的或者爱好的项目中使用了，并想成为我们的一个支持者， 您都可以通过 OpenCollective 来资助我们。 筹集的所有资金都是透明管理的，赞助商在 README 和 Material-UI 主页上都会获得认可。
 
 ## 为什么我的组件在生产构造中没有正确地渲染？

@@ -66,44 +66,9 @@ function AppFooter(props) {
               <div className={classes.logo}>
                 <img src="/static/logo_raw.svg" alt="" />
                 <Link variant="body1" color="inherit" href="/">
-                  Material-UI
+                  Quizlet-UI
                 </Link>
               </div>
-            </Grid>
-            <Grid item xs={6} sm={3} className={classes.list}>
-              <Typography component="h2" gutterBottom>
-                {t('footerCommunity')}
-              </Typography>
-              <ul>
-                <li>
-                  <Link
-                    color="inherit"
-                    variant="body2"
-                    href="https://github.com/mui-org/material-ui"
-                  >
-                    GitHub
-                  </Link>
-                </li>
-                <li>
-                  <Link color="inherit" variant="body2" href="https://twitter.com/MaterialUI">
-                    Twitter
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    color="inherit"
-                    variant="body2"
-                    href="https://stackoverflow.com/questions/tagged/material-ui"
-                  >
-                    StackOverflow
-                  </Link>
-                </li>
-                <li>
-                  <Link color="inherit" variant="body2" href="/discover-more/team/">
-                    {t('pages./discover-more/team')}
-                  </Link>
-                </li>
-              </ul>
             </Grid>
             <Grid item xs={6} sm={3} className={classes.list}>
               <Typography component="h2" gutterBottom>
@@ -127,28 +92,6 @@ function AppFooter(props) {
                 </li>
               </ul>
             </Grid>
-            <Grid item xs={6} sm={3} className={classes.list}>
-              <Typography component="h2" gutterBottom>
-                {t('footerCompany')}
-              </Typography>
-              <ul>
-                <li>
-                  <Link color="inherit" variant="body2" href="/company/about/">
-                    About
-                  </Link>
-                </li>
-                <li>
-                  <Link color="inherit" variant="body2" href="/company/contact/">
-                    Contact Us
-                  </Link>
-                </li>
-                <li>
-                  <Link color="inherit" variant="body2" href="/company/jobs/">
-                    Jobs
-                  </Link>
-                </li>
-              </ul>
-            </Grid>
           </Grid>
           <Typography className={classes.version} color="textSecondary" variant="body2">
             <Interpolate
@@ -165,7 +108,7 @@ function AppFooter(props) {
                 license: (
                   <Link
                     color="inherit"
-                    href="https://github.com/mui-org/material-ui/blob/master/LICENSE"
+                    href="https://github.com/quizlet/material-ui/blob/master/LICENSE"
                   >
                     {t('license')}
                   </Link>

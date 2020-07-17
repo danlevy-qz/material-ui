@@ -13,10 +13,10 @@ Il y a plusieurs façons de soutenir Material-UI :
 - **Aidez les nouveaux utilisateurs**. You can answer questions on [StackOverflow](https://stackoverflow.com/questions/tagged/material-ui).
 - **Apportez des modifications**. 
   - Modifiez la documentation. Chaque page a un lien "ÉDITER CETTE PAGE" en haut à droite.
-  - Signaler des bugs ou des fonctionnalités manquantes en [créant un ticket](https://github.com/mui-org/material-ui/issues/new).
-  - Réviser et commenter les [pull requests](https://github.com/mui-org/material-ui/pulls) existantes et les [tickets](https://github.com/mui-org/material-ui/issues).
+  - Signaler des bugs ou des fonctionnalités manquantes en [créant un ticket](https://github.com/quizlet/material-ui/issues/new).
+  - Réviser et commenter les [pull requests](https://github.com/quizlet/material-ui/pulls) existantes et les [tickets](https://github.com/quizlet/material-ui/issues).
   - Aidez à [traduire](https://translate.material-ui.com) la documentation.
-  - [Améliorez notre documentation](https://github.com/mui-org/material-ui/tree/master/docs), corrigez des bugs ou ajoutez des fonctionnalités en soumettant une [pull request](https://github.com/mui-org/material-ui/pulls).
+  - [Améliorez notre documentation](https://github.com/quizlet/material-ui/tree/master/docs), corrigez des bugs ou ajoutez des fonctionnalités en soumettant une [pull request](https://github.com/quizlet/material-ui/pulls).
 - **Soutenez nous financièrement sur [OpenCollective](https://opencollective.com/material-ui)**. Si vous utilisez Material-UI dans un projet commercial et que vous souhaitez soutenir son développement continu en devenant Sponsor, ou dans un projet parallèle ou hobby et aimeriez devenir un Backer, vous pouvez le faire via OpenCollective. Tous les fonds donnés sont gérés de manière transparente et les Sponsors reçoivent une reconnaissance dans le README et sur la page d'accueil de Material-UI.
 
 ## Pourquoi est-ce que mes composants ne s'affichent pas correctement en production ?

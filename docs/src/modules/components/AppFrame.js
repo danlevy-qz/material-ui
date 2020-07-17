@@ -297,7 +297,7 @@ function AppFrame(props) {
             <IconButton
               component="a"
               color="inherit"
-              href="https://github.com/mui-org/material-ui"
+              href="https://github.com/quizlet/material-ui"
               aria-label={t('github')}
               data-ga-event-category="header"
               data-ga-event-action="github"

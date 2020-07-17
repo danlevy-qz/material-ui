@@ -5,12 +5,12 @@
   "description": "Material-UI Benchmark.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git"
+    "url": "https://github.com/quizlet/material-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/quizlet/material-ui/issues"
   },
-  "homepage": "https://github.com/mui-org/material-ui/tree/master/packages/material-ui-benchmark",
+  "homepage": "https://github.com/quizlet/material-ui/tree/master/packages/material-ui-benchmark",
   "scripts": {
     "core": "cd ../../ && NODE_ENV=production BABEL_ENV=benchmark babel-node packages/material-ui-benchmark/src/core.js --inspect=0.0.0.0:9229",
     "docs": "cd ../../ && NODE_ENV=production BABEL_ENV=benchmark babel-node packages/material-ui-benchmark/src/docs.js --inspect=0.0.0.0:9229",

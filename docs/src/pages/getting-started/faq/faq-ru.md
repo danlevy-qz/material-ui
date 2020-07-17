@@ -13,10 +13,10 @@
 - **Помогайте новичкам**. Поотвечайте на вопросы на [StackOverflow](https://stackoverflow.com/questions/tagged/material-ui).
 - **Двигайте проект вперёд**. 
   - Edit the documentation. Every page has an "EDIT THIS PAGE" link in the top right.
-  - Присылайте багрепорты и фичреквесты [через тикеты](https://github.com/mui-org/material-ui/issues/new).
-  - Review and comment on existing [pull requests](https://github.com/mui-org/material-ui/pulls) and [issues](https://github.com/mui-org/material-ui/issues).
+  - Присылайте багрепорты и фичреквесты [через тикеты](https://github.com/quizlet/material-ui/issues/new).
+  - Review and comment on existing [pull requests](https://github.com/quizlet/material-ui/pulls) and [issues](https://github.com/quizlet/material-ui/issues).
   - Помогите [перевести документацию](https://translate.material-ui.com).
-  - [Improve our documentation](https://github.com/mui-org/material-ui/tree/master/docs), fix bugs, or add features by [submitting a pull request](https://github.com/mui-org/material-ui/pulls).
+  - [Improve our documentation](https://github.com/quizlet/material-ui/tree/master/docs), fix bugs, or add features by [submitting a pull request](https://github.com/quizlet/material-ui/pulls).
 - **Поддержите нас финансово на [OpenCollective](https://opencollective.com/material-ui)**. Если вы применяете Material-UI в коммерческих разработках и хотите спонсировать его дальнейшую развитие, или если это личный проект, и вы хотите сделать посильный вклад, вы можете воспользоваться OpenCollective. Мы открыто сообщаем, на что уходят пожертвования, а спонсорам достаётся упоминание в README и на главной странице Material-UI.
 
 ## Почему мои компоненты не отображаются корректно в продакшн-сборках?

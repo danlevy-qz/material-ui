@@ -63,7 +63,7 @@ describe('<TreeView />', () => {
     });
 
     // should not throw eventually or with a better error message
-    // FIXME: https://github.com/mui-org/material-ui/issues/20832
+    // FIXME: https://github.com/quizlet/material-ui/issues/20832
     it('crashes when unmounting with duplicate ids', () => {
       class ErrorBoundary extends React.Component {
         state = { error: null };

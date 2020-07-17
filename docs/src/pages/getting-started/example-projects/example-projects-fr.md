@@ -4,19 +4,19 @@
 
 ## Exemples officiels
 
-Vous pouvez trouver des exemples de projets dans le [dépôt GitHub](https://github.com/mui-org/material-ui) sous le dossier [`/examples`](https://github.com/mui-org/material-ui/tree/master/examples) :
+Vous pouvez trouver des exemples de projets dans le [dépôt GitHub](https://github.com/quizlet/material-ui) sous le dossier [`/examples`](https://github.com/quizlet/material-ui/tree/master/examples) :
 
-- [Create React App](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app)
-- [Gatsby](https://github.com/mui-org/material-ui/tree/master/examples/gatsby)
-- [Next.js](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
-- [Preact](https://github.com/mui-org/material-ui/tree/master/examples/preact)
-- [CDN](https://github.com/mui-org/material-ui/tree/master/examples/cdn)
-- [Plain server-side](https://github.com/mui-org/material-ui/tree/master/examples/ssr)
+- [Create React App](https://github.com/quizlet/material-ui/tree/master/examples/create-react-app)
+- [Gatsby](https://github.com/quizlet/material-ui/tree/master/examples/gatsby)
+- [Next.js](https://github.com/quizlet/material-ui/tree/master/examples/nextjs)
+- [Preact](https://github.com/quizlet/material-ui/tree/master/examples/preact)
+- [CDN](https://github.com/quizlet/material-ui/tree/master/examples/cdn)
+- [Plain server-side](https://github.com/quizlet/material-ui/tree/master/examples/ssr)
 - Et plus encore
 
 Create React App est un projet génial pour apprendre React. Regardez [les alternatives disponibles](https://github.com/facebook/create-react-app/blob/master/README.md#popular-alternatives) pour voir quel projet correspond le mieux à vos besoins.
 
-Le code source de ce site de documentation est également disponible sur GitHub. C'est un projet légèrement plus complexe. Découvrez le [`/docs`](https://github.com/mui-org/material-ui/tree/master/docs) dossier pour instructions de construction.
+Le code source de ce site de documentation est également disponible sur GitHub. C'est un projet légèrement plus complexe. Découvrez le [`/docs`](https://github.com/quizlet/material-ui/tree/master/docs) dossier pour instructions de construction.
 
 ## Exemples de projets plus avancés
 

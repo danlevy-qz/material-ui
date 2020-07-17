@@ -4,7 +4,7 @@
 
 Material-UI requer como versão mínima o TypeScript 3.2.
 
-Dê uma olhada no exemplo [Create React App com TypeScript](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app-with-typescript).
+Dê uma olhada no exemplo [Create React App com TypeScript](https://github.com/quizlet/material-ui/tree/master/examples/create-react-app-with-typescript).
 
 Para que os tipos funcionem, você tem que pelo menos ter as seguintes opções habilitadas no seu `tsconfig.json`:
 

@@ -39,4 +39,4 @@ But this summary is just scratching the surface. We have accepted 146 commits fr
 
   ![Skeleton](/static/blog/july-2019-update/skeleton.png)
 
-- ❓ Please upvote our [GitHub issues](https://github.com/mui-org/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.
+- ❓ Please upvote our [GitHub issues](https://github.com/quizlet/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.

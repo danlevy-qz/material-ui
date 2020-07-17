@@ -55,7 +55,7 @@ yarn add @material-ui/icons
 - один для разработки: https://unpkg.com/@material-ui/core@latest/umd/material-ui.development.js
 - один для публикации: https://unpkg.com/@material-ui/core@latest/umd/material-ui.production.min.js
 
-Вы можете следовать [этому примеру CDN](https://github.com/mui-org/material-ui/tree/master/examples/cdn) для быстрого старта.
+Вы можете следовать [этому примеру CDN](https://github.com/quizlet/material-ui/tree/master/examples/cdn) для быстрого старта.
 
 Использование этого подхода в **продакшене** **не рекомендуется** - клиент вынужден загружать целую библиотеку независимо от того, какие компоненты он реально использует. Это плохо влияет на производительность.
 

@@ -1,3 +1,4 @@
+/* eslint-disable material-ui/no-hardcoded-labels */
 import React from 'react';
 import clsx from 'clsx';
 import PropTypes from 'prop-types';
@@ -8,8 +9,6 @@ import Drawer from '@material-ui/core/Drawer';
 import SwipeableDrawer from '@material-ui/core/SwipeableDrawer';
 import Divider from '@material-ui/core/Divider';
 import Hidden from '@material-ui/core/Hidden';
-import Box from '@material-ui/core/Box';
-import DiamondSponsors from 'docs/src/modules/components/DiamondSponsors';
 import AppDrawerNavItem from 'docs/src/modules/components/AppDrawerNavItem';
 import Link from 'docs/src/modules/components/Link';
 import { pageToTitleI18n } from 'docs/src/modules/utils/helpers';
@@ -149,7 +148,7 @@ function AppDrawer(props) {
       <div className={classes.toolbarIe11}>
         <div className={classes.toolbar}>
           <Link className={classes.title} href="/" onClick={onClose} variant="h6" color="inherit">
-            Material-UI
+            QZ-UI
           </Link>
           {process.env.LIB_VERSION ? (
             <Link
@@ -164,9 +163,6 @@ function AppDrawer(props) {
         </div>
       </div>
       <Divider />
-      <Box mx={3} my={2}>
-        <DiamondSponsors spot="drawer" />
-      </Box>
       {renderNavItems({ props, pages, activePage, depth: 0, t })}
     </PersistScroll>
   );

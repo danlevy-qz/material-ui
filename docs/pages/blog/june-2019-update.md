@@ -31,4 +31,4 @@ But this summary is just scratching the surface. We have accepted 198 commits fr
   You can already [preview it](https://deploy-preview-16455--material-ui.netlify.app/components/rating/).
   ![Rating](/static/blog/june-2019-update/rating.png)
 
-- ❓ Please upvote our [GitHub issues](https://github.com/mui-org/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.
+- ❓ Please upvote our [GitHub issues](https://github.com/quizlet/material-ui/issues) if you want something specific. The number of 👍 helps us to prioritize.

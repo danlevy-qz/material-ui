@@ -12,7 +12,7 @@ lower-level components that abstract less complexity.
 
 ### What motivated such a large change?
 
-Material-UI was started [4 years ago](https://github.com/mui-org/material-ui/commit/28b768913b75752ecf9b6bb32766e27c241dbc46).
+Material-UI was started [4 years ago](https://github.com/quizlet/material-ui/commit/28b768913b75752ecf9b6bb32766e27c241dbc46).
 The ecosystem has evolved a lot since then, we have also learned a lot.
 [@nathanmarks](https://github.com/nathanmarks/) started an ambitious task, rebuilding Material-UI from the **ground-up**
 taking advantage of this knowledge to address long-standing issues. To name some of the major changes:
@@ -46,7 +46,7 @@ taking advantage of this knowledge to address long-standing issues. To name some
   import Button from '@material-ui/core/Button'; // v1.x
   ```
 
-2. Run [the migration helper](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod) on your project.
+2. Run [the migration helper](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod) on your project.
 3. `MuiThemeProvider` is optional for v1.x., but if you have a custom theme, you are free to use v0.x and v1.x versions of the component at the same time, like this:
 
   ```jsx
@@ -84,11 +84,11 @@ taking advantage of this knowledge to address long-standing issues. To name some
 Material-UI doesn't provide a high-level API for solving this problem.
 You're encouraged you to explore [the solutions the React community has built](/components/autocomplete/).
 
-In the future, we will look into providing a simple component to solve the simple use cases: [#9997](https://github.com/mui-org/material-ui/issues/9997).
+In the future, we will look into providing a simple component to solve the simple use cases: [#9997](https://github.com/quizlet/material-ui/issues/9997).
 
 ### Svg Icon
 
-Run [the migration helper](https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod) on your project.
+Run [the migration helper](https://github.com/quizlet/material-ui/tree/master/packages/material-ui-codemod) on your project.
 
 This will apply a change such as the following:
 
@@ -190,4 +190,4 @@ RaisedButton upgrade path:
 ### To be continued…
 
 Have you successfully migrated your app, and wish to help the community?
-There is an open issue in order to finish this migration guide [#7195](https://github.com/mui-org/material-ui/issues/7195). Any pull request is welcomed 😊.
+There is an open issue in order to finish this migration guide [#7195](https://github.com/quizlet/material-ui/issues/7195). Any pull request is welcomed 😊.

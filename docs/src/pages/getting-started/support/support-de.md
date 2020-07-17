@@ -14,9 +14,9 @@ Für crowdsourced-technische Fragen von professionellen Material-UI-Entwickler i
 
 ### GitHub <img src="/static/images/logos/github.svg" width="24" height="24" alt="GitHub logo" loading="lazy" />
 
-Wir verwenden GitHub Issues ausschließlich als Bug und Feature Request-Tracker. Wenn Sie denken, Sie haben einen Bug gefunden, oder haben eine neue Feature-Idee, bitte stellen Sie zuerst sicher, dass diese nicht bereits [gemeldet oder behoben](https://github.com/mui-org/material-ui/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aclosed) wurde. Sie können bestehende Probleme und Pull-Requests durchsuchen, um zu sehen, ob jemand etwas ähnliches gemeldet hat.
+Wir verwenden GitHub Issues ausschließlich als Bug und Feature Request-Tracker. Wenn Sie denken, Sie haben einen Bug gefunden, oder haben eine neue Feature-Idee, bitte stellen Sie zuerst sicher, dass diese nicht bereits [gemeldet oder behoben](https://github.com/quizlet/material-ui/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aclosed) wurde. Sie können bestehende Probleme und Pull-Requests durchsuchen, um zu sehen, ob jemand etwas ähnliches gemeldet hat.
 
-[Ein Ticket öffnen](https://github.com/mui-org/material-ui/issues/new/choose)
+[Ein Ticket öffnen](https://github.com/quizlet/material-ui/issues/new/choose)
 
 #### New issue guidelines
 

@@ -565,7 +565,7 @@ describe('<Tooltip />', () => {
       expect(getByRole('tooltip')).toBeVisible();
     });
 
-    // https://github.com/mui-org/material-ui/issues/19883
+    // https://github.com/quizlet/material-ui/issues/19883
     it('should not prevent event handlers of children', () => {
       const handleFocus = spy((event) => event.currentTarget);
       // Tooltip should not assume that event handlers of children are attached to the

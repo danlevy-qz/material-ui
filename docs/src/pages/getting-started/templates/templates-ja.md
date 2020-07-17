@@ -6,7 +6,7 @@ title: 9+ Free React Templates
 
 <p class="description">A selection of free react templates to help you get started building your app. The collection contains react dashboard, react admin, and more.</p>
 
-テンプレートを [サンプルアプリケーション](https://github.com/mui-org/material-ui/tree/master/examples) いずれかと組み合わせて、完全なスターターを形成できます。
+テンプレートを [サンプルアプリケーション](https://github.com/quizlet/material-ui/tree/master/examples) いずれかと組み合わせて、完全なスターターを形成できます。
 
 各レイアウトのセクションは、コメントまたは個別のファイルの使用によって明確に定義されます。 ページの一部を簡単に抽出できるようになりました(たとえば、「ヒーローユニット」やフッタなど)。 他のページで再利用できます。 マルチパートの例については、リンクされたソースコードの場所にあるREADMEの表に各ファイルの目的が説明されています。 マルチパートの例については、リンクされたソースコードの場所にあるREADMEの表に各ファイルの目的が説明されています。
 

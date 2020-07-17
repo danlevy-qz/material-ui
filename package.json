@@ -1,6 +1,13 @@
 {
   "version": "4.11.0",
   "private": true,
+  "name": "qz-ui",
+  "description": "Quizlet's Material-UI Fork",
+  "// homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quizlet/qz-ui"
+  },
   "scripts": {
     "proptypes": "ts-node --skip-project ./scripts/generateProptypes.ts",
     "deduplicate": "node scripts/deduplicate.js",

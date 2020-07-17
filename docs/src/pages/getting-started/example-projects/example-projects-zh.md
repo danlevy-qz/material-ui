@@ -4,19 +4,19 @@
 
 ## 官方示例
 
-您可以在 [GitHub 存储库](https://github.com/mui-org/material-ui)中的 [`/examples`](https://github.com/mui-org/material-ui/tree/master/examples) 文件夹下找到一些示例项目：
+您可以在 [GitHub 存储库](https://github.com/quizlet/material-ui)中的 [`/examples`](https://github.com/quizlet/material-ui/tree/master/examples) 文件夹下找到一些示例项目：
 
-- [Create React App](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app)
-- [Gatsby](https://github.com/mui-org/material-ui/tree/master/examples/gatsby)
-- [Next.js](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
-- [Preact](https://github.com/mui-org/material-ui/tree/master/examples/preact)
-- [CDN](https://github.com/mui-org/material-ui/tree/master/examples/cdn)
-- [Plain server-side](https://github.com/mui-org/material-ui/tree/master/examples/ssr)
+- [Create React App](https://github.com/quizlet/material-ui/tree/master/examples/create-react-app)
+- [Gatsby](https://github.com/quizlet/material-ui/tree/master/examples/gatsby)
+- [Next.js](https://github.com/quizlet/material-ui/tree/master/examples/nextjs)
+- [Preact](https://github.com/quizlet/material-ui/tree/master/examples/preact)
+- [CDN](https://github.com/quizlet/material-ui/tree/master/examples/cdn)
+- [Plain server-side](https://github.com/quizlet/material-ui/tree/master/examples/ssr)
 - 以及更多
 
 Create React App 是一个很棒的学习 React 的项目。 请看一下这些[可用的替代方案](https://github.com/facebook/create-react-app/blob/master/README.md#popular-alternatives) ，看看哪个项目最符合您的需求。
 
-此文档站点的源代码也包含在存储库中。 这是一个稍微复杂一点的项目。 请查看 [`/docs`](https://github.com/mui-org/material-ui/tree/master/docs) 文件夹以获取创建项目的说明。
+此文档站点的源代码也包含在存储库中。 这是一个稍微复杂一点的项目。 请查看 [`/docs`](https://github.com/quizlet/material-ui/tree/master/docs) 文件夹以获取创建项目的说明。
 
 ## 进阶示例项目
 

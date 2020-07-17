@@ -133,7 +133,7 @@ The `color` prop changes the highlight color of the text field when focused.
 
 サードパーティのライブラリを使って入力をフォーマットすることができます。 指定された入力コンポーネントは、 `inputRef` プロパティを処理する必要があります。 このプロパティは、次のインターフェイスを実装する値で呼び出す必要があります。
 
-次のデモでは、[react-text-mask](https://github.com/text-mask/text-mask) と[react-number-format](https://github.com/s-yadav/react-number-format)ライブラリを使用します。 同じ概念を [（たとえば、react-stripe-element)に適用することもできます](https://github.com/mui-org/material-ui/issues/16037)。 同じ概念を [（たとえば、react-stripe-element)に適用することもできます](https://github.com/mui-org/material-ui/issues/16037)。
+次のデモでは、[react-text-mask](https://github.com/text-mask/text-mask) と[react-number-format](https://github.com/s-yadav/react-number-format)ライブラリを使用します。 同じ概念を [（たとえば、react-stripe-element)に適用することもできます](https://github.com/quizlet/material-ui/issues/16037)。 同じ概念を [（たとえば、react-stripe-element)に適用することもできます](https://github.com/quizlet/material-ui/issues/16037)。
 
 {{"demo": "pages/components/text-fields/FormattedInputs.js"}}
 

@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git",
+    "url": "https://github.com/quizlet/material-ui.git",
     "directory": "packages/material-ui-styles"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/quizlet/material-ui/issues"
   },
-  "homepage": "https://github.com/mui-org/material-ui/tree/master/packages/material-ui-styles",
+  "homepage": "https://github.com/quizlet/material-ui/tree/master/packages/material-ui-styles",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/material-ui"

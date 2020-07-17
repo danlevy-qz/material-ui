@@ -1,3 +1,24 @@
+# Quizlet-UI
+
+### A Customized [Material-UI](https://material-ui.com) Component Kit & Guide*
+
+**Work in progress. Completely unofficial.*
+
+### TODO / Notes
+
+- [x] Fork from (current) stable version: v4.11.0
+- [ ] Change colors
+- [ ] Add fonts
+- [ ] Adjust font settings
+- [ ] Custom Branding
+- [ ] Cleanup / Remove Ads
+- [ ] Identify Mis-aligned "Levels" of Text Sizes, Color Scales, Grid Column Counts
+- [ ] Write up "Rules" for devs for Maximal Upgradability & Open Source Benefits
+
+
+===================================
+
+
 <p align="center">
   <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://material-ui.com/static/logo.svg" alt="Material-UI logo"></a></p>
 </p>
@@ -6,10 +27,13 @@
 
 <div align="center">
 
-[React](https://reactjs.org/) components for faster and easier web development. Build your own design system, or start with [Material Design](https://material.io/design/introduction/).
+A suite of [React](https://reactjs.org/) components for faster and easier web development.
 
-[![npm package](https://img.shields.io/npm/v/@material-ui/core/latest.svg)](https://www.npmjs.com/package/@material-ui/core)
-[![npm downloads](https://img.shields.io/npm/dm/@material-ui/core.svg)](https://www.npmjs.com/package/@material-ui/core)
+Learn about the [Material Design](https://material.io/design/introduction/) system's terminology, design goals and find detailed write-ups on typography, a11y, spacing, grid system design, and much more.)
+
+<!-- 
+[![npm package](https://img.shields.io/npm/v/@quizlet/qz-ui/latest.svg)](https://www.npmjs.com/package/@quizlet/qz-ui)
+[![npm downloads](https://img.shields.io/npm/dm/@quizlet/qz-ui.svg)](https://www.npmjs.com/package/@quizlet/qz-ui)
 [![CircleCI](https://img.shields.io/circleci/project/github/mui-org/material-ui/master.svg)](https://circleci.com/gh/mui-org/material-ui/tree/master)
 [![Build Status](https://dev.azure.com/mui-org/Material-UI/_apis/build/status/mui-org.material-ui?branchName=master)](https://dev.azure.com/mui-org/Material-UI/_build/latest?definitionId=1&branchName=master)
 [![Coverage Status](https://img.shields.io/codecov/c/github/mui-org/material-ui/master.svg)](https://codecov.io/gh/mui-org/material-ui/branch/master)
@@ -21,21 +45,21 @@
 [![Dependencies](https://david-dm.org/mui-org/material-ui/master/status.svg?path=packages/material-ui)](https://david-dm.org/mui-org/material-ui/master?path=packages/material-ui)
 [![DevDependencies](https://david-dm.org/mui-org/material-ui/master/dev-status.svg?path=packages/material-ui)](https://david-dm.org/mui-org/material-ui/master?type=dev)
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mui-org/material-ui.svg)](https://isitmaintained.com/project/mui-org/material-ui "Average time to resolve an issue")
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/material-ui-docs/localized.svg?cache=v1)](https://translate.material-ui.com/project/material-ui-docs)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/material-ui-docs/localized.svg?cache=v1)](https://translate.material-ui.com/project/material-ui-docs) -->
 
 </div>
 
 ## Installation
 
-Material-UI is available as an [npm package](https://www.npmjs.com/package/@material-ui/core).
+Material-UI is available as an [npm package](https://www.npmjs.com/package/@quizlet/qz-ui).
 
 **[Stable channel v4](https://material-ui.com/)**
 ```sh
 // with npm
-npm install @material-ui/core
+npm install @quizlet/qz-ui
 
 // with yarn
-yarn add @material-ui/core
+yarn add @quizlet/qz-ui
 ```
 
 **[v3.x](https://v3.material-ui.com/)** ([Migration from v3 to v4](https://material-ui.com/guides/migration-v3/))
@@ -83,7 +107,7 @@ Here is a quick example to get you started, **it's all you need**:
 ```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Button from '@material-ui/core/Button';
+import Button from '@quizlet/qz-ui/Button';
 
 function App() {
   return (
@@ -129,7 +153,7 @@ Although we love giving you the opportunity to put your stamp on Material-UI, we
 ## Changelog
 
 Recently Updated?
-Please read the [changelog](https://github.com/mui-org/material-ui/releases).
+Please read the [changelog](https://github.com/quizlet/material-ui/releases).
 
 ## Roadmap
 
